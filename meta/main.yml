@@ -38,7 +38,7 @@ galaxy_info:
         - all
     - name: Debian
       versions:
-        - Stretch
+        - 'stretch'
   #   - all
   #   - 1.0
   #   - 7
