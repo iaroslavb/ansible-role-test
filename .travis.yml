@@ -12,6 +12,10 @@ install:
 
 script:
   - echo "123"
+  - pwd
+  - whoami
+  - ls ~
+  - pip --version
 
 notifications:
   webhooks: https://galaxy.ansible.com/api/v1/notifications/
