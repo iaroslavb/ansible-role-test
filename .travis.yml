@@ -12,3 +12,6 @@ install:
 
 script:
   - echo "123"
+
+notifications:
+  webhooks: https://galaxy.ansible.com/api/v1/notifications/
